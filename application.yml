@@ -11,4 +11,4 @@ logging:
     com:
       example: DEBUG
 
-billingEndpoint: http://billing/reoccurringPayment
+billingEndpoint: http://billing/reoccurringPaymentone
