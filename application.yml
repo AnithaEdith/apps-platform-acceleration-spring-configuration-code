@@ -1,7 +1,11 @@
 security:
   basic:
-    enabled: true
+    enabled: false
 
+management:
+  security:
+    enabled: false
+    
 logging:
   level:
     com:
