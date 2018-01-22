@@ -1,1 +1,6 @@
 billingEndpoint: http://billing/reoccurringPaymentone
+
+logging:
+  level:
+    com:
+      example: DEBUG
