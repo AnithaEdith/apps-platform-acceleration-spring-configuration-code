@@ -1,5 +1,3 @@
-billingEndpoint: http://billing/reoccurringPaymentone
-
 security:
   basic:
     enabled: false
