@@ -12,3 +12,5 @@ logging:
       example: DEBUG
 
 billingEndpoint: http://billing/reoccurringPayment
+
+queueName: queue1
