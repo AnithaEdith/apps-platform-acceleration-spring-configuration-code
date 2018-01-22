@@ -5,8 +5,10 @@ security:
 management:
   security:
     enabled: false
-    
+
 logging:
   level:
     com:
       example: DEBUG
+
+billingEndpoint: http://billing/reoccurringPayment
